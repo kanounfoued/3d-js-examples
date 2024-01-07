@@ -1,0 +1,15 @@
+{
+  "name": "3d-js-examples",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "vite"
+  },
+  "dependencies": {
+    "@tweenjs/tween.js": "^21.0.0",
+    "three": "^0.160.0",
+    "vite": "^5.0.11"
+  },
+  "devDependencies": {}
+}
